@@ -20,7 +20,7 @@ These instructions will get you a copy of the project, up and running the applic
     git clone https://github.com/ayoubabozer/Server-access-analysis.git
      ```
 
- - get into the directory `epa`
+ - get into the directory `Server-access-analysis-master`
  
  - install dependencies:
 
