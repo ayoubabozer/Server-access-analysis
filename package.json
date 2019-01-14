@@ -1,0 +1,19 @@
+{
+  "name": "epa",
+  "version": "1.0.0",
+  "description": "Server access analysis",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Ayoub Abozer",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.7.3",
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp-run": "^1.7.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
